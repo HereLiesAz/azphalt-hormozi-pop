@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Each word snaps in oversized, flashes gold inside a heavy black outline, and settles white — the high-contrast caption pop built for muted autoplay.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
